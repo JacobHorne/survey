@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .DS_Store
 node_modules/
 dist/build.js
@@ -10,3 +11,10 @@ yarn-error.log
 *.ntvs*
 *.njsproj
 *.sln
+=======
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+>>>>>>> refs/remotes/origin/master
